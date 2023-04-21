@@ -8,7 +8,7 @@ import Footer from "./layouts/Footer";
 
 function App() {
   return (
-    <div className="overflow-hidden">
+    <div className="max-w-[1400px] mx-auto overflow-hidden">
       <Navbar />
       <Home />
       <About />
