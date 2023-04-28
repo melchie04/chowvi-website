@@ -66,3 +66,9 @@ export const contactData = {
   title: "Contact Us",
   pretitle: "Have Question In Mind? Let Us Help You",
 };
+
+export const footerData = {
+  text: "Made with high-quality ingredients and cooked to perfection, our fried rice is bursting with flavor and always served hot and fresh.",
+  copyright: "Copyright © 2023 Chowvi. All rights reserved.",
+  developer: "Developed by Melchor Bendanillo Callos",
+};
