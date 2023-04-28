@@ -7,7 +7,7 @@ const Navbar = () => {
   const [open, setOpen] = useState(false);
 
   return (
-    <div className="shadow-md max-w-[1400px] w-full fixed z-10">
+    <div className="shadow-sm max-w-[1400px] w-full fixed z-10">
       <div className="md:flex items-center justify-between bg-white py-4 md:px-10 px-7">
         <div className="font-bold text-2xl flex items-center font-sans">
           <span className="text-[#FE9E0D]">CHOW</span>
