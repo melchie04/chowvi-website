@@ -1,7 +1,7 @@
 <h1 align="center" style="margin: 0">CHOWVI</h1>
 <h3 align="center" style="margin: 0">Landing Page Website</h3>
 
-<p align="left">This is a landing page website that showcases what the brand is all about and gives a glimpse into the type of experience customers can expect when they visit us. Chowvi is a fast-food restaurant concept that I have always dreamed of building someday.</p>
+<p align="left">This is a landing page website that showcases what the brand is all about and gives a glimpse into the type of experience customers can expect when they visit us. Chowvi is a food delivery and fast food business concept that I have always dreamed of building someday.</p>
 
 <p align="left">🌱 The purpose of this project is to help me learn how to use Vite with the ReactJS framework, Tailwind CSS, and Framer Motion. This website is my first landing page website.</p>
 
